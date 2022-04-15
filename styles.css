@@ -1,0 +1,20 @@
+body {
+  background-color: #288d26;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.south {
+  transform: rotate(90deg);
+}
+
+.west {
+  transform: rotate(180deg);
+}
+
+.north {
+  transform: rotate(-90deg);
+}
