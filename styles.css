@@ -5,4 +5,17 @@ body {
 img {
   width: 200px;
   height: auto;
+  transition-duration: 0.5s;
+}
+
+.south {
+  transform: rotate(90deg);
+}
+
+.west {
+  transform: rotate(180deg);
+}
+
+.north {
+  transform: rotate(-90deg);
 }
