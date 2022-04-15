@@ -5,6 +5,7 @@ body {
 img {
   width: 200px;
   height: auto;
+  transition-duration: 0.5s;
 }
 
 .south {
