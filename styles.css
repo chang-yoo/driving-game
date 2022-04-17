@@ -1,11 +1,18 @@
 body {
   background-color: #288d26;
+  width: 1000px;
+}
+
+.container {
+  width: 100vh;
+  height: 100vh;
 }
 
 img {
   width: 200px;
   height: auto;
   transition-duration: 0.5s;
+  position: absolute;
 }
 
 .south {
